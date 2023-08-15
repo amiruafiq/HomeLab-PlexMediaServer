@@ -85,8 +85,10 @@ public = Yes
 ```
 
 ## 6) Restart service
-smbd.service
-nmbd.service
+```
+sudo systemctl restart smbd.service
+sudo systemctl restart nmbd.service
+```
 
 ## 7) Start install plex server
 ```
@@ -98,3 +100,11 @@ sudo apt install plexmediaserver
 ```
 
 once all done check service status ```systemctl status plexmediaserver```
+
+## 8) Open PlexServer from website
+
+Please use this URL for accessing Plex Server `http://<local_ip>:32400/web/index.html#!`
+
+```
+http://192.168.68.100:32400/web/index.html#!
+```
