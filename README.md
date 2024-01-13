@@ -108,3 +108,21 @@ Please use this URL for accessing Plex Server `http://<local_ip>:32400/web/index
 ```
 http://192.168.68.100:32400/web/index.html#!
 ```
+
+
+## Project Name
+
+Description of your project.
+
+### Screenshots
+
+![Screenshot 1](img/1.png)
+*Caption for Image 1*
+
+![Screenshot 2](img/2.png)
+*Caption for Image 2*
+
+![Screenshot 3](img/3.png)
+*Caption for Image 3*
+
+
